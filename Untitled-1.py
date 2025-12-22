@@ -10,7 +10,7 @@ print(type(price)) #Series는 pandas의 클래스
 
 
 # %%
-print("Series 전졔 출력")
+print("Series 전체 출력")
 print(price)
 
 
